@@ -11,7 +11,7 @@ dependency 추가 mysql, mybatis
         * netstat -an | grep 3306 // 디비 포트 검색 사용여부 확인
     * was 에서 디비접근을 못하는 것을 확인 디비 콘피그 작성 필요
 * 디비 콘피그 
-    
+   
 
 ###asd
 ####dasd
